@@ -8,3 +8,6 @@ filename_dictionary : {
 encoding: latin-1
 seperator: ";"
 min_books_to_read : 200
+min_number_of_ratings : 50
+
+neighbors_size: 5
