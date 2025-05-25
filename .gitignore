@@ -33,3 +33,6 @@ build/
 
 # VS Code settings
 .vscode/
+
+# Data folder
+Data/

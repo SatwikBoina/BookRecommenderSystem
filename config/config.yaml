@@ -1,0 +1,10 @@
+filename_dictionary : {
+    "ratings": "BX-Book-Ratings.csv",
+    "users": "BX-Users.csv",
+    "books": "BX-Books.csv"
+}
+
+
+encoding: latin-1
+seperator: ";"
+min_books_to_read : 200
